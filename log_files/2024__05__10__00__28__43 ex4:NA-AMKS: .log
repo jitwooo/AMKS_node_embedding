@@ -1,0 +1,116 @@
+[2024-05-10 00:28:43,147]{/tmp/ipykernel_724967/3638862659.py:62}INFO:NA-AMKS: center_stable_random_graph3
+[2024-05-10 00:28:43,147]{/tmp/ipykernel_724967/3638862659.py:63}INFO:sigma =1
+[2024-05-10 00:28:43,147]{/tmp/ipykernel_724967/3638862659.py:64}INFO:hop =2
+[2024-05-10 00:28:43,147]{/tmp/ipykernel_724967/3638862659.py:65}INFO:step =4
+[2024-05-10 00:28:43,147]{/tmp/ipykernel_724967/3638862659.py:66}INFO:time =0.2
+[2024-05-10 00:28:44,421]{/tmp/ipykernel_724967/3638862659.py:94}INFO:node: 0
+[2024-05-10 00:28:44,422]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 5 Score = 1.0
+[2024-05-10 00:28:44,423]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 10 Score = 1.0
+[2024-05-10 00:28:44,423]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 20 Score = 1.0
+[2024-05-10 00:28:44,424]{/tmp/ipykernel_724967/3638862659.py:94}INFO:node: 1
+[2024-05-10 00:28:44,424]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 5 Score = 0.98
+[2024-05-10 00:28:44,424]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 10 Score = 0.99
+[2024-05-10 00:28:44,425]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 20 Score = 1.0
+[2024-05-10 00:28:44,425]{/tmp/ipykernel_724967/3638862659.py:94}INFO:node: 2
+[2024-05-10 00:28:44,425]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 5 Score = 0.94
+[2024-05-10 00:28:44,426]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 10 Score = 0.98
+[2024-05-10 00:28:44,426]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 20 Score = 0.99
+[2024-05-10 00:28:44,426]{/tmp/ipykernel_724967/3638862659.py:94}INFO:node: 3
+[2024-05-10 00:28:44,426]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 5 Score = 0.89
+[2024-05-10 00:28:44,428]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 10 Score = 0.98
+[2024-05-10 00:28:44,428]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 20 Score = 1.0
+[2024-05-10 00:28:44,428]{/tmp/ipykernel_724967/3638862659.py:94}INFO:node: 4
+[2024-05-10 00:28:44,429]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 5 Score = 0.95
+[2024-05-10 00:28:44,429]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 10 Score = 1.0
+[2024-05-10 00:28:44,429]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 20 Score = 1.0
+[2024-05-10 00:28:44,429]{/tmp/ipykernel_724967/3638862659.py:94}INFO:node: 5
+[2024-05-10 00:28:44,430]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 5 Score = 0.97
+[2024-05-10 00:28:44,431]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 10 Score = 0.98
+[2024-05-10 00:28:44,431]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 20 Score = 0.98
+[2024-05-10 00:28:46,545]{/tmp/ipykernel_724967/3638862659.py:62}INFO:NA-AMKS: center_stable_random_graph3
+[2024-05-10 00:28:46,546]{/tmp/ipykernel_724967/3638862659.py:63}INFO:sigma =1
+[2024-05-10 00:28:46,546]{/tmp/ipykernel_724967/3638862659.py:64}INFO:hop =2
+[2024-05-10 00:28:46,546]{/tmp/ipykernel_724967/3638862659.py:65}INFO:step =4
+[2024-05-10 00:28:46,546]{/tmp/ipykernel_724967/3638862659.py:66}INFO:time =0.2
+[2024-05-10 00:28:47,920]{/tmp/ipykernel_724967/3638862659.py:94}INFO:node: 0
+[2024-05-10 00:28:47,920]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 5 Score = 1.0
+[2024-05-10 00:28:47,920]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 10 Score = 1.0
+[2024-05-10 00:28:47,921]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 20 Score = 1.0
+[2024-05-10 00:28:47,922]{/tmp/ipykernel_724967/3638862659.py:94}INFO:node: 1
+[2024-05-10 00:28:47,922]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 5 Score = 0.98
+[2024-05-10 00:28:47,922]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 10 Score = 0.99
+[2024-05-10 00:28:47,923]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 20 Score = 1.0
+[2024-05-10 00:28:47,923]{/tmp/ipykernel_724967/3638862659.py:94}INFO:node: 2
+[2024-05-10 00:28:47,924]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 5 Score = 0.95
+[2024-05-10 00:28:47,924]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 10 Score = 0.99
+[2024-05-10 00:28:47,925]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 20 Score = 0.99
+[2024-05-10 00:28:47,925]{/tmp/ipykernel_724967/3638862659.py:94}INFO:node: 3
+[2024-05-10 00:28:47,925]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 5 Score = 0.89
+[2024-05-10 00:28:47,926]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 10 Score = 0.97
+[2024-05-10 00:28:47,926]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 20 Score = 0.99
+[2024-05-10 00:28:47,927]{/tmp/ipykernel_724967/3638862659.py:94}INFO:node: 4
+[2024-05-10 00:28:47,927]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 5 Score = 0.94
+[2024-05-10 00:28:47,928]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 10 Score = 1.0
+[2024-05-10 00:28:47,928]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 20 Score = 1.0
+[2024-05-10 00:28:47,928]{/tmp/ipykernel_724967/3638862659.py:94}INFO:node: 5
+[2024-05-10 00:28:47,928]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 5 Score = 0.94
+[2024-05-10 00:28:47,930]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 10 Score = 0.98
+[2024-05-10 00:28:47,930]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 20 Score = 0.98
+[2024-05-10 00:29:40,984]{/tmp/ipykernel_724967/3638862659.py:62}INFO:NA-AMKS: center_stable_random_graph3
+[2024-05-10 00:29:40,984]{/tmp/ipykernel_724967/3638862659.py:63}INFO:sigma =1
+[2024-05-10 00:29:40,984]{/tmp/ipykernel_724967/3638862659.py:64}INFO:hop =2
+[2024-05-10 00:29:40,984]{/tmp/ipykernel_724967/3638862659.py:65}INFO:step =4
+[2024-05-10 00:29:40,984]{/tmp/ipykernel_724967/3638862659.py:66}INFO:time =0.2
+[2024-05-10 00:29:42,330]{/tmp/ipykernel_724967/3638862659.py:94}INFO:node: 0
+[2024-05-10 00:29:42,331]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 5 Score = 1.0
+[2024-05-10 00:29:42,332]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 10 Score = 1.0
+[2024-05-10 00:29:42,332]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 20 Score = 1.0
+[2024-05-10 00:29:42,333]{/tmp/ipykernel_724967/3638862659.py:94}INFO:node: 1
+[2024-05-10 00:29:42,333]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 5 Score = 0.98
+[2024-05-10 00:29:42,333]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 10 Score = 0.99
+[2024-05-10 00:29:42,334]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 20 Score = 1.0
+[2024-05-10 00:29:42,334]{/tmp/ipykernel_724967/3638862659.py:94}INFO:node: 2
+[2024-05-10 00:29:42,335]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 5 Score = 0.94
+[2024-05-10 00:29:42,336]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 10 Score = 0.99
+[2024-05-10 00:29:42,336]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 20 Score = 0.99
+[2024-05-10 00:29:42,337]{/tmp/ipykernel_724967/3638862659.py:94}INFO:node: 3
+[2024-05-10 00:29:42,337]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 5 Score = 0.92
+[2024-05-10 00:29:42,337]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 10 Score = 0.96
+[2024-05-10 00:29:42,338]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 20 Score = 0.99
+[2024-05-10 00:29:42,338]{/tmp/ipykernel_724967/3638862659.py:94}INFO:node: 4
+[2024-05-10 00:29:42,339]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 5 Score = 0.94
+[2024-05-10 00:29:42,339]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 10 Score = 1.0
+[2024-05-10 00:29:42,339]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 20 Score = 1.0
+[2024-05-10 00:29:42,340]{/tmp/ipykernel_724967/3638862659.py:94}INFO:node: 5
+[2024-05-10 00:29:42,340]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 5 Score = 0.97
+[2024-05-10 00:29:42,341]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 10 Score = 0.97
+[2024-05-10 00:29:42,342]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 20 Score = 0.98
+[2024-05-10 00:30:01,768]{/tmp/ipykernel_724967/3638862659.py:62}INFO:NA-AMKS: center_stable_random_graph3
+[2024-05-10 00:30:01,768]{/tmp/ipykernel_724967/3638862659.py:63}INFO:sigma =1
+[2024-05-10 00:30:01,768]{/tmp/ipykernel_724967/3638862659.py:64}INFO:hop =2
+[2024-05-10 00:30:01,769]{/tmp/ipykernel_724967/3638862659.py:65}INFO:step =4
+[2024-05-10 00:30:01,769]{/tmp/ipykernel_724967/3638862659.py:66}INFO:time =0.2
+[2024-05-10 00:30:03,014]{/tmp/ipykernel_724967/3638862659.py:94}INFO:node: 0
+[2024-05-10 00:30:03,015]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 5 Score = 1.0
+[2024-05-10 00:30:03,015]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 10 Score = 1.0
+[2024-05-10 00:30:03,015]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 20 Score = 1.0
+[2024-05-10 00:30:03,016]{/tmp/ipykernel_724967/3638862659.py:94}INFO:node: 1
+[2024-05-10 00:30:03,016]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 5 Score = 0.99
+[2024-05-10 00:30:03,016]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 10 Score = 0.99
+[2024-05-10 00:30:03,017]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 20 Score = 1.0
+[2024-05-10 00:30:03,017]{/tmp/ipykernel_724967/3638862659.py:94}INFO:node: 2
+[2024-05-10 00:30:03,018]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 5 Score = 0.97
+[2024-05-10 00:30:03,018]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 10 Score = 0.99
+[2024-05-10 00:30:03,018]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 20 Score = 0.99
+[2024-05-10 00:30:03,019]{/tmp/ipykernel_724967/3638862659.py:94}INFO:node: 3
+[2024-05-10 00:30:03,019]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 5 Score = 0.92
+[2024-05-10 00:30:03,019]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 10 Score = 0.98
+[2024-05-10 00:30:03,020]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 20 Score = 1.0
+[2024-05-10 00:30:03,020]{/tmp/ipykernel_724967/3638862659.py:94}INFO:node: 4
+[2024-05-10 00:30:03,021]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 5 Score = 0.97
+[2024-05-10 00:30:03,021]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 10 Score = 0.99
+[2024-05-10 00:30:03,021]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 20 Score = 1.0
+[2024-05-10 00:30:03,022]{/tmp/ipykernel_724967/3638862659.py:94}INFO:node: 5
+[2024-05-10 00:30:03,022]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 5 Score = 0.96
+[2024-05-10 00:30:03,022]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 10 Score = 0.98
+[2024-05-10 00:30:03,022]{/tmp/ipykernel_724967/3638862659.py:96}INFO:Top 20 Score = 0.98
