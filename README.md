@@ -2,7 +2,7 @@
 
 ## 1 数据集
 
-数据集下载链接：链接：https://pan.baidu.com/s/1sbURWpThNiQ7oT6tKLvz5w?pwd=gkjg 
+数据集下载链接：https://pan.baidu.com/s/1sbURWpThNiQ7oT6tKLvz5w?pwd=gkjg 
 
 下载完成后，解压保存在根目录下。
 
